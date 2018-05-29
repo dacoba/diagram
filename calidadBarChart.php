@@ -21,10 +21,10 @@ $data_json = json_encode($data);
             display: block;
         }
         html, body, #chart1, svg {
-            margin: 0px;
-            padding: 0px;
+            margin: 0 auto;
+            padding: 0 auto;
             height: 100%;
-            width: 100%;
+            width: 99%;
         }
         * {
             font-size: 30px !important;
